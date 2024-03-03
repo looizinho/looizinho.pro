@@ -1,0 +1,13 @@
+{
+  "name": "looizinho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install",
+    "start": "serve ./public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
